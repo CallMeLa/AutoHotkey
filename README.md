@@ -7,3 +7,4 @@ AutoHotkey is a free, open-source scripting language for Windows that allows use
 ## Download link
 
 * Official site: https://www.autohotkey.com/
+* Join our Discord: https://discord.gg/FhTgqtarZJ
