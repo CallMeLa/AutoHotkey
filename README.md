@@ -12,7 +12,7 @@ AutoHotkey is a free, open-source scripting language for Windows that allows use
 * Save as a .ahk file type
 * Run the file as administrator  
 
-AutoHotkey icon should now show in your task bar at the bottom right of your desktop. To stop simply right click the AutoHotkey icon and select "exit".
+The AutoHotkey icon should now show in your task bar at the bottom right of your desktop. To stop simply right click the AutoHotkey icon and select "exit".
 
 ## Download link
 
