@@ -8,3 +8,4 @@ Return
 SendTheKey:
 SendInput, {Control Down}
 Return
+; Made with ❤️ by github.com/CallMeLa
