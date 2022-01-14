@@ -17,4 +17,3 @@ The AutoHotkey icon should now show in your task bar at the bottom right of your
 ## Download link
 
 * Official site: https://www.autohotkey.com/
-* Join our Discord: https://discord.gg/FhTgqtarZJ
